@@ -45,6 +45,12 @@
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" height="40" alt="docker"  />
   <img width="12" />
+  <img src="https://imgs.search.brave.com/omJhwYZb2pfwOEepADpCiA0ZBYOb27Dk6GJuW0Wj5zA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL3Rh/bmRwZnVuL3NraWxs/LWljb25zL21haW4v/aWNvbnMvS3ViZXJu/ZXRlcy5zdmc" height="40" alt="kubernaties"  />
+  <img width="12" />
+  <img src="https://imgs.search.brave.com/MVcuetUjBVB7VGyVxVCktXCZuRRjShS_pQS3id8MjzE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL2xv/YmVodWIvbG9iZS1p/Y29ucy9yZWZzL2hl/YWRzL21hc3Rlci9w/YWNrYWdlcy9zdGF0/aWMtcG5nL2Rhcmsv/YXdzLWNvbG9yLnBu/Zw" height="40" alt="aws"  />
+  <img width="12" />
+  <img src="https://imgs.search.brave.com/Nc07TtnlW3Y-F8OnBrdrQGTgGgJEqkdabjPmeI9ym50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvai82/My9qZW5raW5zX3Ro/dW1iLnBuZw" height="40" alt="jenkins"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/indesign-icon.png" height="40" alt="indesgin"  />
